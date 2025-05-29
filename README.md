@@ -9,7 +9,11 @@ Java é uma linguagem orientada a objetos, o que quer dizer que modelamos os obj
 e comportamentos da mesma forma que descrevemos um objeto do mundo real.   
 ![img_1.png](img_1.png)  
 
+<<<<<<< HEAD
 Os códigos-fonte em Java devem ter a extensão .java,e o nome do arquivo deverá ser identico
+=======
+códigos-fonte em Java devem ter a extensão .java,e o nome do arquivo deverá ser idêntico
+>>>>>>> ea14f1b (Operadores)
 ao nome da classe.  
 A palavra **class** define que o conteúdo entre chaves representa uma classe Java, a declaração do
 **main** define um procedimento a ser executado, as palavras **public** e **static** significam que este metodo é 
@@ -20,7 +24,7 @@ chaves, o comando **System.out.println** significa que o conteúdo entre parente
 ![img_4.png](img_4.png)
 
 Variaveis são um "espaço" alocado na memória do computador que armazena um valor e que pode ser associado 
-a um nome simbolico. Esse espaço é chamado de variavel pois o valor pode ser alterado. 
+a um nome simbolico. Esse espaço é chamado de variavel, pois o valor pode ser alterado. 
 * byte
 * short
 * int
@@ -35,6 +39,34 @@ respectivamente 8, 16, 32, 64 bits. Os tipos float e double representam valores 
 sendo capazes de armazenar respectivamente 8, 16, 32 e 64 bits.  
 Casting - Forçar o java a colocar o valor de uma variavel dentro da outra.  
 ### String 
-É uma variavel de referencia, ou seja, a objetos .
+É uma variavel de referencia, ou seja, a objetos.  
+
+### Operadores aritméticos 
+
+
+![img_5.png](img_5.png)
+
+
+Os operadores aritméticos executam as operações fundamentais da matemática entre duas variáveis e
+retornam o resultado. Caso seja preciso realizar operações mais complexas, é possível realizar 
+combinações entre esses operadores e criar expressões.
+
++ +: operador de adição
++ -: operador de subtração
++ *: operador de multiplicação 
++ /: operador de divisão 
++ %: operador de módulo(resto de uma divisão).
+
+### Operadores Relacionais 
+
+![img_6.png](img_6.png)
+
+
+Os operadores relacionais comparam dois opeandos e retornam como resultado um valor booleano. 
++ *>*: utilizado quando se deseja verificar se o valor de uma variável é maior que o valor de outra.
++ *>=*: utilizado quando se deseja verificar se o valor de uma variável é maior ou possui o mesmo valor que outra.
++ *<*: utilizado quando se deseja verificar se o valor de uma variável é menor que o valor de outra.
++ *<=*: utilizado quando se deseja verificar se o valor de uma variável é menor ou possui o mesmo valor que outra. 
+
 
 
