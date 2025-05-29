@@ -9,12 +9,8 @@ Java é uma linguagem orientada a objetos, o que quer dizer que modelamos os obj
 e comportamentos da mesma forma que descrevemos um objeto do mundo real.   
 ![img_1.png](img_1.png)  
 
-<<<<<<< HEAD
-Os códigos-fonte em Java devem ter a extensão .java,e o nome do arquivo deverá ser identico
-=======
-códigos-fonte em Java devem ter a extensão .java,e o nome do arquivo deverá ser idêntico
->>>>>>> ea14f1b (Operadores)
-ao nome da classe.  
+
+Os códigos-fonte em Java devem ter a extensão .java,e o nome do arquivo deverá ser identico ao nome da classe.  
 A palavra **class** define que o conteúdo entre chaves representa uma classe Java, a declaração do
 **main** define um procedimento a ser executado, as palavras **public** e **static** significam que este metodo é 
 público e estático, **void** significa que não há nada a ser retornado pelo método, **Strings[]
